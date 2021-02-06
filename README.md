@@ -1,4 +1,4 @@
-## MatPlotLIb Challenge - Pymaceuticals
+## MatPlotLib Challenge - Pymaceuticals
 
 ![LabMouse](images/labmouse.jfif)
 
