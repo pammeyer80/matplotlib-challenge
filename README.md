@@ -4,6 +4,9 @@
 
 Provides the following details and analyses based on study results for drug regimens to treat tumor growth.
 
+### Observations
+Identifies 3 insights based on the analyzed data. 
+
 ### Data Preview
 Includes the following key fields:
 * Mouse ID
@@ -41,8 +44,20 @@ Includes the following charts:
  
 ### Quartiles, Outliers and Boxplots
 Includes the following:
-* Summary table including final tumor volumes 
-* PyPlot Bar Chart: Measurements Per Drug Regimen
-* Pandas Pie Chart: Distribution of Female and Male Mice
-* PyPlot Pie Chart: Distribution of Female and Male Mice
+* Summary table including final tumor volumes per mouse id
+* Summary quartiles, IQRs and outliers for each of four drug regimen
+* Summary Box Plots for each of four drug regimens
+
+### Line and Scatter Plots
+Includes the following:
+* Line Plot: Capolumin Regimen: s185 Average Tumore Volume VS. Timepoint
+* Scatter Plot: Capolumin Regimen Average Tumore Volume VS. Mouse Weight
+
+### Correlation and Regression
+Includes the following:
+* Correlation Coefficient
+* Linear Regression Model
+
+
+
  
